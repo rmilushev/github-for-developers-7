@@ -5,4 +5,5 @@
 - **A favorite food:** _bob chorba_
 - **Habby:** Tennis
 - **Color** green
-- **Raquet** Wilson ProStaff 90
+- **Raquet:** Wilson ProStaff 90
+- **Backhand:** One hand
